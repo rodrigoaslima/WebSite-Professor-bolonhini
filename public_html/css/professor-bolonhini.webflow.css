@@ -4098,6 +4098,12 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.futebol {
+  background-image: url('../images/Futebol-video.PNG');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
