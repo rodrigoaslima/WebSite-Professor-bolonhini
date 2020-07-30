@@ -4124,6 +4124,11 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.cancer {
+  background-image: url('../images/prevencao-cancer.PNG');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
