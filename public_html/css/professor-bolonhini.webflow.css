@@ -2990,6 +2990,13 @@ blockquote {
   background-repeat: no-repeat;
 }
 
+.page-header-overlay.aulas {
+  background-image: url('../images/volta-as-aulas.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .div-small-image {
   position: absolute;
   left: 0px;
@@ -3176,6 +3183,14 @@ blockquote {
 .blog-dark-overlay.racismo {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(16, 18, 70, 0.5)), to(rgba(16, 18, 70, 0.5))), url('../images/racismo.jpg');
   background-image: linear-gradient(180deg, rgba(16, 18, 70, 0.5), rgba(16, 18, 70, 0.5)), url('../images/racismo.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-repeat: repeat, no-repeat;
+}
+
+.blog-dark-overlay.aulas {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(16, 18, 70, 0.5)), to(rgba(16, 18, 70, 0.5))), url('../images/volta-as-aulas.png');
+  background-image: linear-gradient(180deg, rgba(16, 18, 70, 0.5), rgba(16, 18, 70, 0.5)), url('../images/volta-as-aulas.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -3681,6 +3696,11 @@ blockquote {
 
 .blog-link-photo.racismo {
   background-image: url('../images/racismo.jpg');
+  background-position: 70% 50%;
+}
+
+.blog-link-photo.aulas {
+  background-image: url('../images/volta-as-aulas.png');
   background-position: 70% 50%;
 }
 
