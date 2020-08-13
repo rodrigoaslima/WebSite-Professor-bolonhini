@@ -4169,6 +4169,10 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.futebol2 {
+  background-image: url('../images/futebol.jpg');
+  background-size: cover;
+}
 .video-link {
   position: relative;
   display: -webkit-box;
