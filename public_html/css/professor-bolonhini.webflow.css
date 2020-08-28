@@ -4216,6 +4216,12 @@ blockquote {
   background-image: url('../images/futebol.jpg');
   background-size: cover;
 }
+
+.video-link-photo.futebol3 {
+  background-image: url('../images/liga_campeoes.jpg');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
