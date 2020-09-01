@@ -2964,6 +2964,13 @@ blockquote {
   background-attachment: scroll;
 }
 
+.page-header-overlay.fundeb {
+  background-image: url('../images/fundeb.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
 
 .page-header-overlay.cotidiano-deficiente {
   background-image: url('../images/o-cotidiano-de-uma-pessoa-com-deficiencia-na-cidade-de-sao-paulo.png');
@@ -3224,6 +3231,14 @@ blockquote {
 .blog-dark-overlay.renda {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(16, 18, 70, 0.5)), to(rgba(16, 18, 70, 0.5))), url('../images/internet-alunos-baixa-renda.jpg');
   background-image: linear-gradient(180deg, rgba(16, 18, 70, 0.5), rgba(16, 18, 70, 0.5)), url('../images/internet-alunos-baixa-renda.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-repeat: repeat, no-repeat;
+}
+
+.blog-dark-overlay.fundeb {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(16, 18, 70, 0.5)), to(rgba(16, 18, 70, 0.5))), url('../images/fundeb.png');
+  background-image: linear-gradient(180deg, rgba(16, 18, 70, 0.5), rgba(16, 18, 70, 0.5)), url('../images/fundeb.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -3744,6 +3759,11 @@ blockquote {
 
 .blog-link-photo.renda {
   background-image: url('../images/internet-alunos-baixa-renda.jpg');
+  background-position: 70% 50%;
+}
+
+.blog-link-photo.fundeb {
+  background-image: url('../images/fundeb.png');
   background-position: 70% 50%;
 }
 
