@@ -4242,6 +4242,11 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.futebol4 {
+  background-image: url('../images/corinthians.jpg');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
