@@ -4247,6 +4247,11 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.conflitos {
+  background-image: url('../images/conflitos.jpeg');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
