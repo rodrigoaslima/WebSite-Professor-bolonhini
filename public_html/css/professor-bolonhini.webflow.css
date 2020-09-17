@@ -4293,6 +4293,11 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.brasileirao2020 {
+  background-image: url('../images/brasileirao2020.jpg');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
