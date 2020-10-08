@@ -4358,6 +4358,11 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.corinthians2 {
+  background-image: url('../images/corinthians2.png');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
