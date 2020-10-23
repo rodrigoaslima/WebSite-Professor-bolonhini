@@ -4403,6 +4403,11 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.palmeiras {
+  background-image: url('../images/palmeiras.png');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
