@@ -4428,6 +4428,11 @@ blockquote {
   background-size: cover;
 }
 
+.video-link-photo.santos {
+  background-image: url('../images/santos.png');
+  background-size: cover;
+}
+
 .video-link {
   position: relative;
   display: -webkit-box;
